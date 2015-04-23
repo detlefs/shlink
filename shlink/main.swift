@@ -5,6 +5,7 @@
 //  Created by Detlef Schneider on 23.04.15.
 //  Copyright (c) 2015 Schneider-Zone. All rights reserved.
 //
+// Tool to create hardlinks of folders
 
 import Foundation
 
